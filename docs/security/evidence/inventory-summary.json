@@ -1,0 +1,27 @@
+{
+  "baseline": "c366dd11871d75d5f511e843605b689731759622",
+  "review_date": "2026-10-21",
+  "tracked_files": 878,
+  "native_binaries": 19,
+  "literal_occurrences": 317,
+  "literal_hosts": 74,
+  "audit_metadata": {
+    "vulnerabilities": {
+      "info": 0,
+      "low": 8,
+      "moderate": 41,
+      "high": 79,
+      "critical": 1
+    },
+    "dependencies": 1022,
+    "devDependencies": 0,
+    "optionalDependencies": 0,
+    "totalDependencies": 1022
+  },
+  "advisory_records": 129,
+  "notes": [
+    "Literal strings are candidates, not observed network connections. Binary strings do not establish executed code.",
+    "Audit registry response is a dated snapshot, not proof of exploitability. No audit fix or dependency upgrade performed."
+  ],
+  "pnpm_lock_sha256": "aceeaadf5b1305c781619f7dc6b5a6a4cf8dba77dbe0349a74b00ea6acd22d69"
+}
