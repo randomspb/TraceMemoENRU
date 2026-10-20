@@ -1,0 +1,10 @@
+package,version,file,sha256
+electron-updater,6.8.9,out/AppUpdater.js,99921022d181fbd0637878fdebc74177be167d4d56a92c9a87d828f89ab67344
+electron-updater,6.8.9,out/providers/Provider.js,48601c5ceb7aaaeec096b84186a1155964128e64bbe8c009dd2d9cb9afccda37
+electron-updater,6.8.9,out/providers/GitHubProvider.js,17c0ae98c1fb7943057fe88c0cc951a84acc81988813dba1aca20e911f82f601
+ffmpeg-static,5.3.0,install.js,9801ce3aa35e45f72f7d13339ff04c916011b529040d1a1301c74102ed335fb9
+electron,43.1.0,install.js,5a83199076ae20cfe57576a984e31b92890a2ae4e0759454bb6df4f9e7f47460
+electron,43.1.0,checksums.json,7c6faa41291ccd0db2cd73236ca80e6c82398812ad2cf2b9490fd9524c7d13c5
+@electron-toolkit/preload,3.0.2,dist/index.cjs,a591a7f58d26674a10f2d404874a7b01d9ebc617419c21b74773a6c77912c067
+@electron/get,5.0.0,dist/FetchDownloader.js,38a0d3afe5dc45248283b0aa919c6c5ee49e658ee8cd3971747612682f87506b
+@electron/get,5.0.0,dist/artifact-utils.js,90c0ba570fe50779c1c9239c60d22be73438c57e3cd718aeb8eb13b43f434a22
